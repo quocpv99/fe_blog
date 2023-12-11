@@ -16,6 +16,7 @@
     "react": "^18",
     "react-dom": "^18",
     "react-quill": "^2.0.0",
+    "strapi-sdk-js": "^2.3.3",
     "tw-elements": "^1.1.0"
   },
   "devDependencies": {
